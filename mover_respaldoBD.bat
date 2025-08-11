@@ -2,9 +2,9 @@
 
 setlocal
 REM ORIGEN
-set "source=C:\Users\Administrador\Desktop\origen"
+set "source=C:\ruta-origen"
 REM DESTINO
-set "destination=C:\Users\Administrador\Documents\Destomp"
+set "destination=E:\ruta-destino"
 REM PREFIJO FECHA Y HORA (Hora-minutos)
 set "hora=%time:~0,2%-%time:~3,2%"
 if "%hora:~0,1%"==" " set "hora=0%hora:~1%"

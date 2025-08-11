@@ -21,4 +21,8 @@ El script localiza los archivos de respaldo .bak (Copia de seguridad) y los comp
 > [!NOTE]
 > RespaldoBD_dd-mm-yyyy_hora_minutos.rar 
 
-Cada respaldo realizado se guarda en su respectiva carpeta donde se podra encontrar el archivo *.rar* y los registros del copiado de datos. 
+Cada respaldo realizado se guarda en su respectiva carpeta donde se podra encontrar el archivo *.rar* y los registros del copiado de datos. Estos registron tienen informacion como la hora y fecha de finalizacion, archivos omitidos, archivos dañados y posibles errores. 
+
+# Pasos especificos 
+
+Para usar efectivamente este script es necesario cambiar las rutas de origen y destino de donde se guardaran los respaldos de los archivos *.bak*. 
