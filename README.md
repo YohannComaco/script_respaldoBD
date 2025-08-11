@@ -10,9 +10,9 @@ Este script es un archivo ".bat" que se programara de manera automatica usando e
 Los archivos seran copiados desde el origen en disco C: hasta el respaldo en disco E: de la maquina **Queule**. 
 
 # Carpeta Origen 
-La carpeta de origen de donde se copian los datos es C:respaldos
+La carpeta de origen de donde se copian los datos es /C:respaldos
 # Carpeta Destino
-La carpeta de destino donde se reciben los datos es E:Queule
+La carpeta de destino donde se reciben los datos es /E:Queule/
 
 # Procedimiento de codigo
 
